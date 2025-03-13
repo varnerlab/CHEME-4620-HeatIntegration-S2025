@@ -1,2 +1,2 @@
-# CHEME-4620-HeatIntegration-S2025
-Lecture repo for the Heat Integrtation lecture for CHEME 4620
+# CHEME 4620 Heat Integration Lecture
+This is a lecture repository of the `L8b` lecture on heat integration. The lecture is part of the CHEME 4620 course at Cornell University. The original lecture notebook is available in the repo, as well as an [HTML version of the notebook](https://htmlview.glitch.me/?https://github.com/varnerlab/CHEME-4620-HeatIntegration-S2025/blob/main/CHEME-4620-L8b-HeatIntegration-S2025.html).
